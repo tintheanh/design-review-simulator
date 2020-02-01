@@ -6,5 +6,9 @@ VR educational game for civil engineering students, which is currently being use
 ## Requirement:
 Unity version 2017.3.1
 
+## Features:
+* Support both VR (Oculus) and desktop gameplay
+* Score and explanation system
+
 ## Download:
-Download and play the game on [Windows](https://drive.google.com/file/d/12Iu43TSFQQcdUPdwd6rfOXsJM6dqJfhO/view?usp=sharing) and [Mac Os](https://drive.google.com/file/d/1cqdOU6W8GMx9E4OhBWaDtBLMw1PznfZV/view?usp=sharing)
+Download and play the game on [Windows](https://drive.google.com/file/d/12Iu43TSFQQcdUPdwd6rfOXsJM6dqJfhO/view?usp=sharing) and [Mac OS](https://drive.google.com/file/d/1cqdOU6W8GMx9E4OhBWaDtBLMw1PznfZV/view?usp=sharing)
